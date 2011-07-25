@@ -1,0 +1,5 @@
+name: GuestRestrictions
+version: %VERSION%
+depend: [AccessControl,MessageManager]
+main: edgruberman.bukkit.guestrestrictions.Main
+author: EdGruberman (ed@rjump.com)
