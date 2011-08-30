@@ -22,7 +22,7 @@ public final class Main extends org.bukkit.plugin.java.JavaPlugin {
         new PlayerListener(this);
         new EntityListener(this);
         new VehicleListener(this);
-        new ZombeDisabler(this);
+        new CheatDisabler(this);
         
         Main.messageManager.log("Plugin Enabled");
     }
